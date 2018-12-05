@@ -2,6 +2,8 @@
 
 Datadog middleware for Connect JS / Express
 
+This is forked from https://github.com/AppPress/node-connect-datadog and updated to allow passing metrics on 404s.
+
 
 ## Usage
 
